@@ -1,0 +1,4 @@
+interface:
+  display_name: "draw_role_form_mingchao_acg"
+  short_description: "参考鸣潮角色原图，生成统一半写实CG风格的面部特写与正侧背全身设定图"
+  default_prompt: "使用 $draw_role_form_mingchao_acg，把我提供的角色参考图生成同系列半写实CG角色设定图。"
